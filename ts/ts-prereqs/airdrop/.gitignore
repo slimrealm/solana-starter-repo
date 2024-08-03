@@ -1,0 +1,4 @@
+secrets.json
+*wallet.json
+node_modules/
+.DS_Store
